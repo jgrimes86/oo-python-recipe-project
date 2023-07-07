@@ -1,9 +1,9 @@
-from lib.allergy import *
-from lib.ingredient import *
-from lib.recipe import *
-from lib.recipecard import *
-from lib.recipeingredient import *
-from lib.user import *
+from lib.allergy import Allergy
+from lib.ingredient import Ingredient
+from lib.recipe import Recipe
+from lib.recipecard import RecipeCard
+from lib.recipeingredient import RecipeIngredient
+from lib.user import User
 
 # code here
 
@@ -19,5 +19,5 @@ from lib.user import *
 
 
 
-# do not remove 
+# your code above!
 import ipdb; ipdb.set_trace()
