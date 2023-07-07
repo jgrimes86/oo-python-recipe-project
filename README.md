@@ -6,6 +6,11 @@ In this project, we will be practicing object relationships in Python, with a pa
   <img src="https://curriculum-content.s3.amazonaws.com/module-1/oo-mini-project/Figure%26Ingredients.png" width="500" alt="ingredients and allergies"> 
 </p>
 
+## Setup
+
+`pipenv install` will make sure we have ipdb included in our environment.  
+`pipenv shell` allows us access to that environment.  
+
 ## Testing
 
 We've provided you with a console that you can use to test your code. To enter a console session, run python debug.py. From there you'll be able to test out the methods that you write.
